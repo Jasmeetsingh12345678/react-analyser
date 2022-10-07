@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-analyser/static/css/main.24cfd648.css",
+    "main.js": "/react-analyser/static/js/main.768f16a4.js",
+    "index.html": "/react-analyser/index.html",
+    "main.24cfd648.css.map": "/react-analyser/static/css/main.24cfd648.css.map",
+    "main.768f16a4.js.map": "/react-analyser/static/js/main.768f16a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24cfd648.css",
+    "static/js/main.768f16a4.js"
+  ]
+}
